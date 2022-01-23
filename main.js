@@ -1,6 +1,6 @@
 function calc(operation, a, b) {
   if (a === undefined || b === undefined) {
-    return "Error";
+    return "Error!";
   }
   switch (operation) {
     case "+":
